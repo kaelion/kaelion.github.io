@@ -1,14 +1,13 @@
 ---
 layout: post
-tags: []
+tags: [SDGs與大學治理]
 categories: [SDG]
 #date: 2019-06-25 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+#description:測試文件
 #permalink:
 title: 'SDGs與大學治理'
 ---
 # 前言 #
 聯合國
-
