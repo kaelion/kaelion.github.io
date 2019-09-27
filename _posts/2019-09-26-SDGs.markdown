@@ -5,9 +5,16 @@ categories: [SDG]
 #date: 2019-06-25 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:測試文件
+#description:本文討論SDGs
 #permalink:
 title: 'SDGs與大學治理'
 ---
 # 前言 #
 聯合國於2015年12月宣佈推動17項SDGs來，
+- 源由
+- 政策演進
+  1.  從MDGs到SDGs
+  1. IAEUP的宣言
+  1. 大學排名的引進與重視
+  1. 政府政策結合
+  
