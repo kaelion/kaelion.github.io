@@ -10,4 +10,4 @@ categories: [SDG]
 title: 'SDGs與大學治理'
 ---
 # 前言 #
-聯合國
+聯合國於2015年12月宣佈推動17項SDGs來，
