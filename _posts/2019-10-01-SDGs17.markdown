@@ -7,7 +7,7 @@ categories: [SDG]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:本文討論SDGs
 #permalink:
-title: 'SDGs17'
+title: 'SDGs17學術研究'
 ---
 # 綜合敍述
 
